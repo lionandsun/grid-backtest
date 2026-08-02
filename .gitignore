@@ -7,3 +7,4 @@ reports/
 *.csv
 *.png
 .DS_Store
+.vscode/
